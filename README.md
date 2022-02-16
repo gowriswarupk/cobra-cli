@@ -1,2 +1,5 @@
 # cobra-cli
-learning go basics
+
+learning go basics and cobra.
+
+This repository contains number
