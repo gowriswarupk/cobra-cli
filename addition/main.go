@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	var a, b, c int
+	var a, b int
 
 	fmt.Println("Enter first value: ")
 
@@ -15,13 +15,7 @@ func main() {
 
 	fmt.Scan(&b)
 
-	c = add_values(a, b)
+	c := a + b
 
-	fmt.Printf("sum of values entered is: ",
-		c) //needs updating after rechecking
-}
-
-func add_values(a int, b int) int {
-	var c = a + b
-	return c
+	fmt.Println("sum of values entered is: ", c)
 }
