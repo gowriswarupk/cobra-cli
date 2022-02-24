@@ -8,4 +8,3 @@ func main() {
 	_, _ = rootCmd.ExecuteC()
 }
 
-abcdefg
