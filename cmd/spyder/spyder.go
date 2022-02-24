@@ -7,3 +7,5 @@ func main() {
 	// Check those vaues
 	_, _ = rootCmd.ExecuteC()
 }
+
+abcdefg
