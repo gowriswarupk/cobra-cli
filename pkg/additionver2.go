@@ -1,10 +1,10 @@
-package main
+package pkg
 
 import (
 	"fmt"
 )
 
-func main() {
+func add2() {
 	var a, b int
 
 	fmt.Println("Enter first value: ")
