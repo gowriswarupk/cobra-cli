@@ -1,10 +1,10 @@
-package main
+package pkg
 
 import (
 	"fmt"
 )
 
-func main() {
+func add1() {
 	a := 4
 
 	b := 5
